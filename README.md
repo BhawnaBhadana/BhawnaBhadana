@@ -16,6 +16,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-000000?logo=wix&logoColor=white)
 
 ---
 
