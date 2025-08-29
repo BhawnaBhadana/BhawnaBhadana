@@ -29,11 +29,6 @@
 
 ---
 
-### 🔥 Recent Projects
-- 🛡️ **Smart Legal Aid DAO** – Web3 LegalTech platform for justice funding  
-
----
-
 ### 📈 GitHub Stats
 ![Bhawna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhawnaBhadana&show_icons=true&theme=radical)
 
