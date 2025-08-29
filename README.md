@@ -18,7 +18,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-![Wix](https://img.shields.io/badge/-Wix-000000?logo=wix&logoColor=white)
 
 ---
 
