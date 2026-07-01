@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bhawna Bhadana
 
-🎓 BCA Student at DSEU  
+🎓 BS Student at DSEU  
 💻 Aspiring Full-Stack & AI Developer  
 🌟 Building cool projects and contributing to open-source  
 🚀 Learning Full-Stack Development, Web3, Firebase  
